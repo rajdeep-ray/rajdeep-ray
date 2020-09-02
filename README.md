@@ -81,7 +81,9 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
+<a href="https://github.com/Rajdeep-Ray">
 <img  align="left"  alt="Rajdeep-Ray's Github Stats"  src="https://github-readme-stats-prod.vercel.app/api?username=Rajdeep-Ray&show_icons=true&hide_border=true&count_private=true&theme=dark"  />
+</a>
 
 <br  />
 
@@ -103,8 +105,9 @@ Here are some ideas to get you started:
 ### Language Stats
 
   
-
-<img  align="left"  alt="Rajdeep-Ray's Language Stats"  src="https://github-readme-stats-prod.vercel.app/api/top-langs/?username=Rajdeep-Ray"  />
+<a href="https://github.com/Rajdeep-Ray">
+  <img  align="left"  alt="Rajdeep-Ray's Language Stats"  src="https://github-readme-stats-prod.vercel.app/api/top-langs/?username=Rajdeep-Ray"  />
+</a>
 
   
 
