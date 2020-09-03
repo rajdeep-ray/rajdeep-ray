@@ -84,6 +84,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/Rajdeep-Ray">
 <img  align="left"  alt="Rajdeep-Ray's Github Stats"  src="https://github-readme-stats-prod.vercel.app/api?username=Rajdeep-Ray&show_icons=true&hide_border=true&count_private=true&theme=dark"  />
 </a>
+<a href="https://github.com/Rajdeep-Ray">
+<!--   <img  align="left"  alt="Rajdeep-Ray's Language Stats"  src="https://github-readme-stats-prod.vercel.app/api/top-langs/?username=Rajdeep-Ray"  /> -->
+  <img  align="left"  alt="Rajdeep-Ray's Language Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep-Ray&layout=compact&theme=dark"  />
+</a>
 
 <br  />
 
@@ -105,10 +109,10 @@ Here are some ideas to get you started:
 ### Language Stats
 
   
-<a href="https://github.com/Rajdeep-Ray">
+<!-- <a href="https://github.com/Rajdeep-Ray"> -->
 <!--   <img  align="left"  alt="Rajdeep-Ray's Language Stats"  src="https://github-readme-stats-prod.vercel.app/api/top-langs/?username=Rajdeep-Ray"  /> -->
-  <img  align="left"  alt="Rajdeep-Ray's Language Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep-Ray&layout=compact"  />
-</a>
+<!--   <img  align="left"  alt="Rajdeep-Ray's Language Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep-Ray&layout=compact&theme=dark"  /> -->
+<!-- </a> -->
 
   
 
