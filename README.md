@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 
 ### Checkout My Apps:
 
-[<img align="left" alt="Mystery Box" width="30px" src="https://raw.githubusercontent.com/Rajdeep-Ray/Rajdeep-Ray/master/assets/icons8-box.svg" />](https://rajdeep-ray.github.io/mystery-box/)
+[<img align="left" alt="Mystery Box" width="30px" src="https://img.icons8.com/cute-clipart/512/000000/box.png" />](https://rajdeep-ray.github.io/mystery-box/)
+
+[<img align="left" alt="Google Play" width="30px" src="https://img.icons8.com/color/512/000000/google-play.png" />](https://play.google.com/)
 
 <br  />
 
