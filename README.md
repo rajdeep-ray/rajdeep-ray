@@ -15,14 +15,21 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
+<a href="https://github.com/Rajdeep-Ray">
 <img height="300px" src="https://raw.githubusercontent.com/Rajdeep-Ray/Rajdeep-Ray/master/assets/programmer.gif" alt="programmer">
+</a>
 <br>
 Hi there, I'm Rajdeep Ray 👋
 </h1>
 
 <p align="center">
+<a href="https://github.com/Rajdeep-Ray">
 <img src="https://metrics.lecoq.io/Rajdeep-Ray" alt="Github Metrics">
+</a>
+<a href="https://github.com/Rajdeep-Ray">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep-Ray" alt="Github Streak Stats">
+</a>
+
 </p>
 
 
