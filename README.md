@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 
 
-<center>
-  <img height="250px" src="assets\programmer.gif" alt="programmer">
-</center>
+<img height="250px" src="assets\programmer.gif" alt="programmer">
 
-## Hi there, I'm Rajdeep Ray 👋
+<h1>Hi there, I'm Rajdeep Ray 👋</h1>
+
+<!-- ## Hi there, I'm Rajdeep Ray 👋 -->
 
   
 
