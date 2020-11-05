@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-<img height="300px" src="assets\programmer.gif" alt="programmer">
+<img height="300px" src="https://raw.githubusercontent.com/Rajdeep-Ray/Rajdeep-Ray/master/assets/programmer.gif" alt="programmer">
 <br>
 Hi there, I'm Rajdeep Ray 👋
 </h1>
