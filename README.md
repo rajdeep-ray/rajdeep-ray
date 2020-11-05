@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 Hi there, I'm Rajdeep Ray 👋
 </h1>
 
+<p align="center">
+<img src="https://metrics.lecoq.io/Rajdeep-Ray?isocalendar=1&followup=1&languages=1" alt="Github Metrics">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep-Ray" alt="Github Streak Stats">
+</p>
+
+
 <!-- <p align="center">
   <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p>
