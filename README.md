@@ -26,6 +26,7 @@ Hi there, I'm Rajdeep Ray 👋
 <a href="https://github.com/Rajdeep-Ray">
 <img src="https://metrics.lecoq.io/Rajdeep-Ray" alt="Github Metrics">
 </a>
+<br />
 <a href="https://github.com/Rajdeep-Ray">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep-Ray" alt="Github Streak Stats">
 </a>
