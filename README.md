@@ -41,7 +41,8 @@ Hi there, I'm Rajdeep Ray 👋
 <!-- ## Hi there, I'm Rajdeep Ray 👋 -->
 
 ## About Me:
-I am self-taught full-stack mobile app Developer and a programer, and looking forward to contribute to Open-Source Projects
+
+#### I am a Full-Stack App Developer and a JavaScript Enthusiast
 
 - 🌱 I’m currently learning a lot of the latest tech stacks
 
