@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-
-<img height="250px" src="assets\programmer.gif" alt="programmer">
-
-<h1>Hi there, I'm Rajdeep Ray 👋</h1>
+<h1 align="center">
+<img height="300px" src="assets\programmer.gif" alt="programmer">
+<br>
+Hi there, I'm Rajdeep Ray 👋
+</h1>
 
 <!-- ## Hi there, I'm Rajdeep Ray 👋 -->
 
