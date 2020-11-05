@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Rajdeep Ray 👋
+
+
+<center>
+  <img height="250px" src="assets\programmer.gif" alt="programmer">
+</center>
+
+## Hi there, I'm Rajdeep Ray 👋
 
   
 
