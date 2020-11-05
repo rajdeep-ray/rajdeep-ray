@@ -20,16 +20,15 @@ Here are some ideas to get you started:
 Hi there, I'm Rajdeep Ray 👋
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rajdeep-Ray" alt="Rajdeep-ray"/> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rajdeep-Ray" alt="Rajdeep-ray"/> </p>  -->
 
 <!-- ## Hi there, I'm Rajdeep Ray 👋 -->
 
-  
 
-## I'm a Developer!
+<!-- ## I'm a Developer! -->
 
 - 🌱 I’m currently learning a lot of the latest tech stacks
 
