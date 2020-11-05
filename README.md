@@ -33,8 +33,8 @@ Hi there, I'm Rajdeep Ray 👋
 
 <!-- ## Hi there, I'm Rajdeep Ray 👋 -->
 
-
-<!-- ## I'm a Developer! -->
+### About Me:
+I am self-taught full-stack mobile app Developer and a programer, and looking forward to contribute to Open-Source Projects
 
 - 🌱 I’m currently learning a lot of the latest tech stacks
 
@@ -102,8 +102,7 @@ Hi there, I'm Rajdeep Ray 👋
 
 <br  />
 
----
-
+<!-- 
 ### GitHub Stats
 
 <a href="https://github.com/Rajdeep-Ray">
@@ -131,9 +130,9 @@ Hi there, I'm Rajdeep Ray 👋
 
   
 <a href="https://github.com/Rajdeep-Ray">
-<!--   <img  align="left"  alt="Rajdeep-Ray's Language Stats"  src="https://github-readme-stats-prod.vercel.app/api/top-langs/?username=Rajdeep-Ray"  /> -->
+  <img  align="left"  alt="Rajdeep-Ray's Language Stats"  src="https://github-readme-stats-prod.vercel.app/api/top-langs/?username=Rajdeep-Ray"  />
   <img  align="left"  alt="Rajdeep-Ray's Language Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep-Ray&layout=compact&theme=dark"  />
-</a>
+</a> -->
 
   
 
