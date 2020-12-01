@@ -67,7 +67,7 @@ Hi there, I'm Rajdeep Ray 👋
 
 [<img align="left" alt="social | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-[<img align="left" alt="social | Dev" width="23px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />](https://dev.to/rajdeepray)
+[<img align="left" alt="social | Dev" width="23px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
 
 
 <br  />
@@ -155,3 +155,5 @@ Hi there, I'm Rajdeep Ray 👋
 [linkedin]: https://linkedin.com/in/rajdeep-ray
 
 [medium]: https://medium.com/@rajdeepray
+
+[dev]: https://dev.to/rajdeepray
