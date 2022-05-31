@@ -41,7 +41,7 @@ Hi there, I'm Rajdeep Ray 👋
 
 <!-- ## Hi there, I'm Rajdeep Ray 👋 -->
 
-## About Me:
+<!-- ## About Me:
 
 #### I am a Full-Stack App Developer and a JavaScript Enthusiast
 
@@ -52,7 +52,7 @@ Hi there, I'm Rajdeep Ray 👋
 - ⚡ Fun fact: I love to experiment with new stuff in the market
 
   
-
+ -->
 ### Connect with me:  
 
 <!-- [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -72,7 +72,7 @@ Hi there, I'm Rajdeep Ray 👋
 
 <br  />
 
-### Checkout My Apps:
+<!-- ### Checkout My Apps:
 
 [<img align="left" alt="Mystery Box" width="30px" src="https://img.icons8.com/cute-clipart/512/000000/box.png" />](https://rajdeep-ray.github.io/mystery-box/)
 
@@ -94,7 +94,7 @@ Hi there, I'm Rajdeep Ray 👋
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<!-- <img align="left" alt="Java" width="26px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" /> -->
+<!-- <img align="left" alt="Java" width="26px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
@@ -110,7 +110,7 @@ Hi there, I'm Rajdeep Ray 👋
 
 <br  />
 
-<br  />
+<br  /> -->
 
 <!-- 
 ### GitHub Stats
@@ -145,7 +145,6 @@ Hi there, I'm Rajdeep Ray 👋
 </a> -->
 
   
-
 [twitter]: https://twitter.com/Rajdeep_Ray_
 
 [youtube]: https://www.youtube.com/channel/UCtZkelHpr8aG-ttY0ij5Cdg
