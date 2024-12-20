@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Ray</h1>
-<h3 align="center">Backend Developer | JavaScript/TypeScript | Flutter |Opensource Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Backend Developer | Go | JavaScript/TypeScript | Opensource Enthusiast</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep-ray&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep-ray" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep-ray&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep-ray" /> </p> -->
 
 - 📫 How to reach me **hello@rajdeepray.me**
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajdeep_ray_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajdeep_ray_" height="30" width="40" /></a>
@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep-ray&show_icons=true&locale=en" alt="rajdeep-ray" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-ray&" alt="rajdeep-ray" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-ray&" alt="rajdeep-ray" /></p> -->
